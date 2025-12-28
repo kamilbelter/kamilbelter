@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamilbelter
-- 👀 I’m interested in low level programming, computer graphics, competetive programming, OS design.
-- 🌱 I’m currently learning C, C++, Rust, x86_64 assembly, algorithms.
+- 👀 I’m interested in low level programming, computer graphics, competetive programming, electronics.
+- 🌱 I’m currently learning C, Rust, x86_64 assembly, algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 kamil.belter at gmail
 
